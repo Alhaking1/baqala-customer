@@ -1,16 +1,16 @@
 {
   "merchant": {
-    "version_code": 1,
-    "version_name": "1.0.0",
+    "version_code": 2,
+    "version_name": "1.0.1",
     "apk_url": "https://raw.githubusercontent.com/Alhaking1/baqala-customer/main/app-release.apk",
-    "release_notes": "الإصدار الرسمي 1.0.0: كاشير ذكي، إدارة الديون والواصل بالتحقق الصارم، كروت الواي فاي، طلبية النواقص عبر SMS وواتساب",
+    "release_notes": "تحديث تلقائي صامت 1.0.1: تفاصيل الأصناف والبيان، أمان البصمة لتصفير الحساب، فحص وتحديث تلقائي في الخلفية",
     "is_mandatory": false
   },
   "customer": {
-    "version_code": 1,
-    "version_name": "1.0.0",
+    "version_code": 2,
+    "version_name": "1.0.1",
     "apk_url": "https://raw.githubusercontent.com/Alhaking1/baqala-customer/main/customer-release.apk",
-    "release_notes": "الإصدار الرسمي 1.0.0: طلب المقاضي، كشف الحساب والديون، شراء كروت الشبكة، إشعارات مخصصة للبقالة",
+    "release_notes": "تحديث تلقائي صامت 1.0.1: تفاصيل الأصناف والبيان، تحديث تلقائي صامت في الخلفية دون تدخل",
     "is_mandatory": false
   }
 }
